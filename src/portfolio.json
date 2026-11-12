@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "profile": {
+    "name": "四月底的岛",
+    "title": "四月底的岛",
+    "subtitle": "AN ISLAND AT THE END OF APRIL",
+    "intro": "这里是我的小岛。平时喜欢画画和配音，也会做一些小项目；把它们都放在这座岛上，等你来走一走、看一看。",
+    "links": []
+  },
+  "modules": [
+    {
+      "id": "projects",
+      "name": "项目与实习经历",
+      "short": "项目实习",
+      "kind": "projects",
+      "intro": "把做过的事，一步步讲清楚。",
+      "items": [],
+      "emptyConfirmed": true
+    },
+    {
+      "id": "research",
+      "name": "科研项目",
+      "short": "科研",
+      "kind": "research",
+      "intro": "从一个真实的问题出发。",
+      "items": [],
+      "emptyConfirmed": true
+    },
+    {
+      "id": "clubs",
+      "name": "社团与志愿者活动",
+      "short": "社团志愿",
+      "kind": "awards",
+      "intro": "和伙伴一起把想法带到现场。",
+      "items": [],
+      "emptyConfirmed": true
+    },
+    {
+      "id": "creations",
+      "name": "自媒体与 Vibe Coding 作品",
+      "short": "创作作品",
+      "kind": "gallery",
+      "intro": "画画和配音的小世界。",
+      "items": [],
+      "emptyConfirmed": true
+    }
+  ]
+}
